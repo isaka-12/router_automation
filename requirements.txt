@@ -1,0 +1,5 @@
+fastapi[standard]
+uvicorn
+motor
+requests
+pydantic
