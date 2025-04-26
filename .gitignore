@@ -1,0 +1,4 @@
+# ignore render.yaml
+# ignore all yaml files
+
+/*.yaml
